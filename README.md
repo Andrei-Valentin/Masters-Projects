@@ -1,3 +1,3 @@
-# Proiecte-Master
+# Masters-Projects
 
-Sisteme Distribuite, FMI UNIBUC
+Distributed Systems, University of Bucharest
